@@ -1,2 +1,2 @@
 # Django - Simple To Do app
-# Demo - johntodoapp01.herokuapp.com
+# Demo - https://johntodoapp01.herokuapp.com
